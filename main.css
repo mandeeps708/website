@@ -1,0 +1,11 @@
+.bounce {
+    -moz-animation-duration: 2s;
+    -moz-animation-delay: 3s;
+    -moz-animation-iteration-count: 3;
+
+    -webkit-animation-duration: 2s;
+    -webkit-animation-delay: 3s;
+    -webkit-animation-iteration-count: 3; 
+
+}
+
